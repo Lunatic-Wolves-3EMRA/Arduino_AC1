@@ -45,3 +45,25 @@ if(getTemperatura()>=15)
  {
  ledAzul(false);
  }
+
+  if(getTemperatura()==15)
+  {
+    Serial.println("Temperatura chegou a 15 graus");
+    delay(2000);
+  }
+  
+  if(getLuminosidade()>5)
+  {
+    ledVerde(true);
+    Serial.println("Luminosidade esta muito alta");
+    delay(2000);
+  }else
+  {
+    ledVerde(false);
+  }
+  
+  delay(10);
+  
+  
+}
+  
