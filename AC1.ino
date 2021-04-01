@@ -37,4 +37,11 @@ if((millis()-lastDebouceTime1)>botaoDelay && digitalReed(botao1))
 lastDebounceTime1=millis();
 }
   
-  
+//verificador de temperatura
+if(getTemperatura()>=15)  
+{
+ ledAzul(true);
+ }else
+ {
+ ledAzul(false);
+ }
