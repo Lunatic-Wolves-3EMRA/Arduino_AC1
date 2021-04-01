@@ -2,7 +2,7 @@
 
 ## LUNATIC WOLVES
 
-Aqui vocês irão encontrar todos os detalhes do nosso projeto. São eles:
+Aqui vocês irão encontrar uma breve biografia da nossa equipe. Durante os últimos dias, resolvemos as seguintes situações:
 
 - Ajuste dos erros no código principal
 - Documentação do projeto do github no README.md
