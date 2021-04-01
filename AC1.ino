@@ -32,13 +32,13 @@ void loop()
 {
  if((millis() - lastDebouceTime1)>botaoDelay && digitalRead(botao1))
   {
-   Serial.println("Botao 1 apertado");
+   Serial.println("Botão 1 apertado");
    ledVermelho();
    lastDebounceTime1 = millis();
 }   
 if((millis()-lastDebouceTime1)>botaoDelay && digitalReed(botao2))  
 {
- Serial.println("botao 2 apertado") 
+ Serial.println("Botão 2 apertado") 
  ledVermelho();
  lastDebounceTime1=millis();
 } 
