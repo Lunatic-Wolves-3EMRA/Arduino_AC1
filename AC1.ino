@@ -22,4 +22,5 @@ void setup()
   pinMode(verde, OUTPUT);
   pinMode(azul, OUTPUT);
   
-teste, hh
+teste, hh, oi galerinha
+  
