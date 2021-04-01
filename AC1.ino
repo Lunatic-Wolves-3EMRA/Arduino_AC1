@@ -86,7 +86,7 @@ void ledVermelho(){
  }
                  
   int getTemperatura(){
-   int TemperaturaC;
+   int temperaturaC;
   temperaturaC= map(((analogRead(A0)-20)*3.04),0,1023,-40,125);
   return temperaturaC;
  }
