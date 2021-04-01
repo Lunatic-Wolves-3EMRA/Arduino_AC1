@@ -61,7 +61,7 @@ if(getTemperatura()>=15)
  if(getLuminosidade()>5)
   {
     ledVerde(true);
-    Serial.println("Luminosidade esta muito alta");
+    Serial.println("a luminosidade está muito alta!");
     delay(2000);
  }else
   {
