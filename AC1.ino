@@ -30,7 +30,7 @@ void setup()
 //Executa os comandos 
 void loop()
 {
- if(millis() - lastDebouceTime1)>botaoDelay && digitalReed(botao1))
+ if((millis() - lastDebouceTime1)>botaoDelay && digitalRead(botao1))
   {
    Serial.println("botao 1 apertado");
    ledVermelho();
