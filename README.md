@@ -6,10 +6,9 @@ Aqui vocês irão encontrar uma breve biografia da nossa equipe. Durante os últ
 
 - Ajuste dos erros no código principal
 - Documentação do projeto do github no README.md
-- Uma breve biografia da nossa equipe
-- Em todas as partes do código devem ter comentários explicando o que foi feito
-- Usar o máximo possível o Serial, nele informando os estados da produção
-- Colocar as funcionalidades falantes
+- Em todas as partes do código comentários explicando o que foi feito
+- Usamos o máximo possível o Serial, nele informando os estados da produção
+- Colocamos as funcionalidades faltantes
 
 ![](https://camo.githubusercontent.com/1707c261572cfdc4f2dd80705d40f63e3caa32c39bb7ce77765950b27dbc262a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f4c656f7275697a3139372f41726475696e6f5f414331)
 ![](https://camo.githubusercontent.com/eb803ec85af1544a8ffc80ae4baf1c9ff40a9ccbaf206813bc174b82208596ca/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f4c656f7275697a3139372f41726475696e6f5f414331)
