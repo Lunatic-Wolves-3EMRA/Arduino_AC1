@@ -42,5 +42,5 @@ Meu nome é Mirella eu sou do 3EMRA, para muitos pareço tímida, mas com meus a
 
 ### MANIFESTO
 
-A equipe da Lunatic Wolves agradece através desse manifesto por terem nos escolhido para realizar a automação. Esperamos que vocês tenham ficado satisfeitos, a melhor forma de combater a pandemia é por meio das vacinas para que todos possamos voltar ao habitual.
+A equipe da Lunatic Wolves agradece através desse manifesto por terem nos escolhido para realizar a automação. Esperamos que vocês tenham ficado satisfeitos, a melhor forma de combater a pandemia é por meio das vacinas para que possamos voltar ao habitual.
 
