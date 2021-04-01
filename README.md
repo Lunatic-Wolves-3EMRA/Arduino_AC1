@@ -7,7 +7,7 @@ Aqui vocês irão encontrar todos os detalhes do nosso projeto. São eles:
 - Ajuste dos erros no código principal
 - Documentação do projeto do github no README.md
 - Uma breve biografia da nossa equipe
-- Em tadas as partes do código tevem ter comentários explicando o que foi feito
+- Em todas as partes do código devem ter comentários explicando o que foi feito
 - Usar o máximo possível o Serial, nele informando os estados da produção
 - Colocar as funcionalidades falantes
 
