@@ -1,18 +1,18 @@
-//variáveis da led
+//Variáveis da led
 const int vermelho = 5;
 const int verde = 6;
 const int azul = 7;
 
-//estado do led vermelho
+//Estado do led vermelho
 bool estadoLedVermelho = false;
 
-//variáveis dos botões
+//Variáveis dos botões
 const int botao1 = 2;
 const int botao2 = 8;
 unsigned long lastDebounceTime1 = 0;
 const int botaoDelay = 5;
 
-//usado para começar o programa e serve para configurar os pinos para comunicação do serial
+//Essa parte é usada para começar o programa, fazer a comunicação do serial e configurar os pinos
 void setup()
 {
   pinMode(A0, INPUT);
