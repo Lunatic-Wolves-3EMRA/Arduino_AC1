@@ -30,12 +30,18 @@ void setup()
 //executa os comandos 
 void loop()
 {
-if((millis()-lastDebouceTime1)>botaoDelay && digitalReed(botao1))  
+ if(millis() - lastDebouceTime1)>botaoDelay && digitalReed(botao1))
+  {
+   Serial.println("botao 1 apertado");
+   ledVermelho();
+   lastDebounceTime1 = millis();
+}   
+if((millis()-lastDebouceTime1)>botaoDelay && digitalReed(botao2))  
 {
  Serial.println("botao 2 apertado") 
  ledVermelho();
-lastDebounceTime1=millis();
-}
+ lastDebounceTime1=millis();
+} 
   
 //verificador de temperatura
 if(getTemperatura()>=15)  
@@ -46,13 +52,13 @@ if(getTemperatura()>=15)
  ledAzul(false);
  }
 
-  if(gatTemperatura()==15)
+  if(getTemperatura()==15)
   {
     Serial.println("Temperatura chegou a 15 graus");
     delay(2000);
   }
   
- if(gatLuminosidade()>5)
+ if(getLuminosidade()>5)
   {
     ledVerde(true);
     Serial.println("Luminosidade esta muito alta");
