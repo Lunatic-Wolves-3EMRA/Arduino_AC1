@@ -48,16 +48,16 @@ if(getTemperatura()>=15)
 
   if(gatTemperatura()==15)
   {
-    Serial.println("Temperatura chegou a 15 graus");
-    delay(2000)!;
+    Serial.println("Temperatura chegou a 15 graus);
+    delay(2000);
   }
   
-  if(getLuminosidade()>5)
+ if(gatLuminosidade()>5)
   {
-    ledVerde(true)
+    ledVerde(true);
     Serial.println("Luminosidade esta muito alta");
-    delay(2000);
-  }else
+   delay(2000);
+ }else
   {
     ledVerde(false);
   }
