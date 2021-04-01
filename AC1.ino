@@ -27,7 +27,7 @@ void setup()
   Serial.println("            V1.0");
   Serial.println(Grupo: LUNATIC WOLVES");
  } 
-//executa os comandos 
+//Executa os comandos 
 void loop()
 {
  if(millis() - lastDebouceTime1)>botaoDelay && digitalReed(botao1))
@@ -43,7 +43,7 @@ if((millis()-lastDebouceTime1)>botaoDelay && digitalReed(botao2))
  lastDebounceTime1=millis();
 } 
   
-//verificador de temperatura
+//Verifica a temperatura
 if(getTemperatura()>=15)  
 {
  ledAzul(true);
