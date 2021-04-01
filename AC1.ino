@@ -54,7 +54,7 @@ if(getTemperatura()>=15)
 
   if(getTemperatura()==15)
   {
-    Serial.println("Temperatura chegou a 15 graus");
+    Serial.println("Temperatura chegou a 15 graus!");
     delay(2000);
   }
   
