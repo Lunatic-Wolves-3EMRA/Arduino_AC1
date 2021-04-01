@@ -71,4 +71,8 @@ void ledVermelho(){
   estadoLedVermelho =!estadoLedVermelho;
   digitalWrite(vermelho,estadoLedVermelho)
  }
- void ledVerde(bool estado){                
+ void ledVerde(bool estado){     
+   digitalWrite(verde,estado);  
+
+ }
+ void ledAzul(bool estado){                
