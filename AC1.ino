@@ -75,4 +75,9 @@ void ledVermelho(){
    digitalWrite(verde,estado);  
 
  }
- void ledAzul(bool estado){                
+ void ledAzul(bool estado){      
+   digitalWrite(azul,estado);
+ }
+                 
+  int getTemperatura();
+                 
