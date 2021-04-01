@@ -90,7 +90,7 @@ void ledVermelho(){
   temperaturaC= map(((analogRead(A0)-20)*3.04),0,1023,-40,125);
   return temperaturaC;
  }
-   
+                 
  //funcao de leitura da luminosidade               
  int getLuminosidade(){                
   int luminosidade;               
