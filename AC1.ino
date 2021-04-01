@@ -75,7 +75,7 @@ if(getTemperatura()>=15)
                    
 void ledVermelho(){                   
   estadoLedVermelho =!estadoLedVermelho;
-  digitalWrite(vermelho,estadoLedVermelho)
+  digitalWrite(vermelho,estadoLedVermelho);
  }
  void ledVerde(bool estado){     
    digitalWrite(verde,estado);  
