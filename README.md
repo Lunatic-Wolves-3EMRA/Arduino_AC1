@@ -33,7 +33,7 @@ Oiê pessoal, meu nome é Helena, sou estudante do 3EMRA, amo artes, mas o que e
 ### Marina Luísa Morais Braga:
 ![](https://raw.githubusercontent.com/Lunatic-Wolves-3EMRA/Arduino_AC1/main/Marina%20Lu%C3%ADsa%20Morais%20Braga.jpg)
 
-Hey! Meu nome é Marina e eu adoro ler! Poderia passar horas e horas lendo. Eu também gosto de tirar fotos e assistir documentários sobre qualquer assunto! Me responsabilizei em fazer a documentação e ajudei no código.
+Hey! Meu nome é Marina sou do 3EMRA e eu adoro ler! Poderia passar horas e horas lendo. Eu também gosto de tirar fotos e assistir documentários sobre qualquer assunto! Me responsabilizei em fazer a documentação e ajudei no código.
 
 ### Mirella Silvestre Pagliuca e Pagliuca:
 ![](https://raw.githubusercontent.com/Lunatic-Wolves-3EMRA/Arduino_AC1/main/Mirella%20Silvestre%20Pagliuca%20e%20Pagliuca.jpg)
