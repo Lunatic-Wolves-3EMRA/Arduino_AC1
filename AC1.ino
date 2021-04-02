@@ -84,7 +84,8 @@ void ledVermelho(){
  void ledAzul(bool estado){      
    digitalWrite(azul,estado);
  }
-                 
+  
+//Função leitura da temperatura
   int getTemperatura(){
    int temperaturaC;
   temperaturaC= map(((analogRead(A0)-20)*3.04),0,1023,-40,125);
