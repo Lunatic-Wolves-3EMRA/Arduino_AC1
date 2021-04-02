@@ -16,7 +16,7 @@ Aqui vocês irão encontrar uma breve biografia da nossa equipe. Durante os últ
 
 ## **O PROBLEMA:** 
 
-Nosso grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina. Nossa equipe irá solucionar esse problema o mais rápido possível para que tenha vacinas para todos. Para saber quem somos, leia a desrcição a baixo.
+Nosso grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina. Nossa equipe irá solucionar esse problema o mais rápido possível para que tenha vacinas para todos. Para saber quem somos, leia a descrição a baixo.
 
 ## INTEGRANTES DO GRUPO:
 
