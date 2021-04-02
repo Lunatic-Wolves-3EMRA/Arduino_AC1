@@ -38,7 +38,7 @@ void loop()
 }   
 if((millis()-lastDebounceTime1)>botaoDelay && digitalRead(botao2))  
 {
- Serial.println("Botão 2 apertado") 
+ Serial.println("Botão 2 apertado"); 
  ledVermelho();
  lastDebounceTime1=millis();
 } 
