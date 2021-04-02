@@ -25,7 +25,7 @@ void setup()
   Serial.begin(9600);
   Serial.println("AC1-Meu Primeiro Projeto 2021");
   Serial.println("V1.0");
-  Serial.println(Grupo: LUNATIC WOLVES");
+  Serial.println("Grupo: LUNATIC WOLVES");
  } 
 //Executa os comandos 
 void loop()
