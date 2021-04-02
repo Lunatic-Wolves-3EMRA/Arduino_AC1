@@ -43,7 +43,7 @@ if((millis()-lastDebounceTime1)>botaoDelay && digitalRead(botao2))
  lastDebounceTime1=millis();
 } 
   
-//Verifica a temperatura
+//Verifica a temperatura e a luminosidade
 if(getTemperatura()>=15)  
 {
  ledAzul(true);
