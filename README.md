@@ -25,11 +25,6 @@ Nosso grupo foi contratado para realizar a automação do chão da fábrica de u
 
 Olá! Meu nome é Bruna e eu sou do 3EMRA. Tenho 16 anos, sou um pouco tímida com quem não conheço, mas depois eu acabo me soltanto. Gosto muito de músicas, esportes e ver filme. Adoro fazer amizades! Eu ajudei a concertar o código e fazer comentários.
 
-### Helena de Pasquali Roberto:
-![](https://raw.githubusercontent.com/Lunatic-Wolves-3EMRA/Arduino_AC1/main/Helena%20de%20Pasquali%20Roberto.jpg)
-
-Oiê pessoal, meu nome é Helena, sou estudante do 3EMRA, amo artes, mas o que eu mais admiro é o canto e a dança. Fiquei responsável em fazer o Tinkercard e ajudei a concertar o código.
-
 ### Marina Luísa Morais Braga:
 ![](https://raw.githubusercontent.com/Lunatic-Wolves-3EMRA/Arduino_AC1/main/Marina%20Lu%C3%ADsa%20Morais%20Braga.jpg)
 
